@@ -8,8 +8,6 @@ In essence, the project encourages students to develop their understanding of th
 
 ## Key Components
 
-The Libft project consists of several key components, which students are required to implement:
-
 1. **Memory Functions**: These include functions like `ft_memset`, `ft_memcpy`, and `ft_memmove`, which allow you to manipulate memory at the byte level.
 
 2. **String Functions**: Functions for common string operations like `ft_strlen`, `ft_strdup`, `ft_strlcpy`, and `ft_strlcat`.
