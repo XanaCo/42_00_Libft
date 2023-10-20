@@ -1,6 +1,6 @@
 # 42_Libft
 
-## Overview of the Exercise
+## Overview
 
 The Libft project is a fundamental project in the curriculum. It serves as an introduction to the C programming language and the concept of creating a custom library. The main objective of the Libft project is to implement a library of essential C functions that are commonly used throughout various programming tasks. This library can then be used in future school projects, reducing the reliance on built-in C library functions.
 
