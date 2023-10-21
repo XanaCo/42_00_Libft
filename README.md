@@ -22,9 +22,9 @@ In essence, the project encourages students to develop their understanding of th
 
 ## Key Skills Developed
 
-1. **C Programming Proficiency**: Students gain a strong command of the C programming language, including memory manipulation, string handling, and general programming practices.
+1. **C Programming Proficiency**: Gain a strong command of the C programming language, including memory manipulation, string handling, and general programming practices.
 
-2. **Library Creation**: This project emphasizes the creation of a custom library, teaching students how to organize and maintain their code for reuse.
+2. **Library Creation**: This project emphasizes the creation of a custom library, teaching how to organize and maintain our code for reuse.
 
 3. **Problem Solving**: Developing the various functions in the library requires problem-solving skills to ensure correct implementation and efficiency.
 
